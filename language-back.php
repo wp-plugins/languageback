@@ -4,7 +4,7 @@ Plugin Name: LanguageBack
 Plugin URI: http://moxu.eu
 Description: Pluglin the lets you enforce a locale for your admin interface and/or frontend
 Author: Florin Iacob (mox|moxu|moxul|zamox)
-Version: 1.0
+Version: 1.1
 License : LGPLv3 or later
 License URI: http://www.gnu.org/licenses/lgpl-3.0.html
 Author URI: http://moxu.eu
