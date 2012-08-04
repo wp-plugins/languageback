@@ -4,7 +4,7 @@ Donate link:
 Tags: different, frontend, backend, admin, locale, language
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: 1.1
+Stable tag: 1.2
 License: LGPLv3 or later
 License URI: http://www.gnu.org/licenses/lgpl-3.0.html
 
